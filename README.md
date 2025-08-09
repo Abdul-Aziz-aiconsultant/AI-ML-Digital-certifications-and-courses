@@ -12,7 +12,6 @@ A curated list of my certifications, professional courses, and mentorship experi
 **Skills:** Python, Data Analysis, NumPy, Pandas  
 Earned by completing hands-on Python exercises covering core programming, data structures, control flow, functions, and foundational data science concepts.  
 
-![Kaggle Python Badge](certificates/kaggle-python-badge.png)
 
 ---
 
@@ -23,7 +22,6 @@ Credential ID: `388842453`
 **Skills:** Artificial Intelligence, Machine Learning Algorithms, Generative AI in Education  
 Focused on AI-powered lesson planning, AI tutoring, and personalized learning solutions.  
 
-![Google Generative AI Certificate](certificates/google-generative-ai.pdf)
 
 ---
 
@@ -38,7 +36,6 @@ Covered supervised/unsupervised learning, model deployment, and real-world AI us
 Credential ID: `FWOZMMIUQHG`  
 **Skills:** TensorFlow, Model Evaluation, AI for Business  
 
-![IBM AI Certificate](certificates/ibm-ai-certificate.pdf)
 
 ---
 
@@ -48,7 +45,6 @@ Credential ID: `FWOZMMIUQHG`
 **Skills:** AI, Machine Learning, Deep Neural Networks, Deep Learning  
 Worked on model development, data preprocessing, and deployment in real-world projects.  
 
-![Trysell Internship](certificates/trysell-internship.pdf)
 
 ---
 
@@ -58,12 +54,11 @@ Worked on model development, data preprocessing, and deployment in real-world pr
 **Skills:** Digital Marketing, Brand Development, Social Media Advertising, Google Ads  
 Mentored aspiring professionals on client acquisition, campaign setup, funnel building, and freelance portfolio creation.  
 
-![AN-Soft Mentor Certificate](certificates/ansoft-mentor.pdf)
 
 ---
 
 ## 📬 Contact
 📧 **Email:** abdulazizofficialwork@gmail.com  
-🌐 **Portfolio:** [YourPortfolioLinkHere]  
-💼 **LinkedIn:** [YourLinkedInHere]  
-🐙 **GitHub:** [YourGitHubHere]
+🌐 **Portfolio:** [[YourPortfolioLinkHere]](https://abdul-aziz-aiconsultant.github.io/)  
+💼 **LinkedIn:** [[YourLinkedInHere]](https://www.linkedin.com/in/abdulaziz2966/)  
+🐙 **GitHub:** [[YourGitHubHere]](https://github.com/Abdul-Aziz-aiconsultant/)
