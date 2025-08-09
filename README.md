@@ -59,6 +59,6 @@ Mentored aspiring professionals on client acquisition, campaign setup, funnel bu
 
 ## 📬 Contact
 📧 **Email:** abdulazizofficialwork@gmail.com  
-🌐 **Portfolio:** [[YourPortfolioLinkHere]](https://abdul-aziz-aiconsultant.github.io/)  
-💼 **LinkedIn:** [[YourLinkedInHere]](https://www.linkedin.com/in/abdulaziz2966/)  
-🐙 **GitHub:** [[YourGitHubHere]](https://github.com/Abdul-Aziz-aiconsultant/)
+🌐 **Portfolio:** [[Mine Portfolio]](https://abdul-aziz-aiconsultant.github.io/)  
+💼 **LinkedIn:** [[Mine LinkedIn]](https://www.linkedin.com/in/abdulaziz2966/)  
+🐙 **GitHub:** [[Mine GitHub]](https://github.com/Abdul-Aziz-aiconsultant/)
